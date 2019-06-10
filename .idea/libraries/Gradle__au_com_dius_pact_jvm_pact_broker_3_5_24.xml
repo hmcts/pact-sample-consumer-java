@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: au.com.dius:pact-jvm-pact-broker:3.5.24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/au.com.dius/pact-jvm-pact-broker/3.5.24/888262a89529c23d0945a29364a489d1b3bfb1f7/pact-jvm-pact-broker-3.5.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/au.com.dius/pact-jvm-pact-broker/3.5.24/18809627f44148237235127060c76e27e09cf205/pact-jvm-pact-broker-3.5.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
